@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sun-yong-l.github.io/sitemap.xml
